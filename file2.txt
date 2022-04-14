@@ -1,0 +1,9 @@
+Percent Of Hands Falling in Rank High Card is 57.599999999999994% and overall win percentage is 0.8159722222222223%
+Percent Of Hands Falling in Rank One Pair is 36.4% and overall win percentage is 30.706593406593406%
+Percent Of Hands Falling in Rank Two Pair is 3.8% and overall win percentage is 75.49473684210525%
+Percent Of Hands Falling in Rank Three of Kind is 1.4000000000000001% and overall win percentage is 92.4%
+Percent Of Hands Falling in Rank Straight is 0.2% and overall win percentage is 97.0%
+Percent Of Hands Falling in Rank Flush is 0.6% and overall win percentage is 98.93333333333332%
+Percent Of Hands Falling in Rank Full House is 0.0% and overall win percentage is 0.0%
+Percent Of Hands Falling in Rank Four of a Kind is 0.0% and overall win percentage is 0.0%
+Percent Of Hands Falling in Rank Straight Flush is 0.0% and overall win percentage is 0.0%
